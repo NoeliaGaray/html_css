@@ -1,0 +1,17 @@
+h1 {
+  color: #ff9a9e;
+  font-size: 40px;
+  font-style: oblique;
+  text-align: justify;
+  font-family: Impact;
+}
+h2 {
+  color: #ff0844;
+  font-size: 30px;
+  font-style: italic;
+  text-align: justify;
+}
+p {
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+  text-align: justify;
+}
